@@ -7,3 +7,11 @@
 ```bash
 pip install telethon
 ```
+## دانلود و استفاده
+
+```bash
+git clone https://github.com/alirezaturkoglan/Save-destructible-photo/
+```
+```bash
+cd Save-destructible-photo && python app.py
+```
