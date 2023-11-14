@@ -2,6 +2,14 @@
 
 <div align="center">ذخیره عکس های نابود شونده در تلگرام<div>
 
+<div align="center">Languages</div>
+
+<div align="center">
+  <a href="https://github.com/alirezaturkoglan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaturkoglan&layout=compact&theme=radical" alt="Top Langs">
+  </a>
+</div>
+
 <div align="center">اول باید API ID و API Hash را از تلگرام قسمت API development tools به نشانی<br>https://my.telegram.org<br>
 و با ساختن یک app دریافت کنید.<div>
 
